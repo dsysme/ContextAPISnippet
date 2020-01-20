@@ -1,2 +1,0 @@
-# ContextAPISnippet
-Created with CodeSandbox
